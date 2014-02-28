@@ -8,6 +8,7 @@
         <?php
         echo 'how are you?';
         // put your code here
+        echo 'Hello!';
         ?>
     </body>
 </html>
