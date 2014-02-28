@@ -6,6 +6,7 @@
     </head>
     <body>
         <?php
+        echo 'how are you?';
         // put your code here
         ?>
     </body>
